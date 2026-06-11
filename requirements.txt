@@ -1,0 +1,17 @@
+langchain
+langchain-community
+openai
+streamlit
+faiss-cpu
+beautifulsoup4
+requests
+pypdf
+python-docx
+pandas
+tiktoken
+huggingface_hub
+langchain-huggingface
+sentence-transformers
+python-dotenv
+chromadb
+groq
