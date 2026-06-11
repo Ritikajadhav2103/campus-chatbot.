@@ -1,0 +1,237 @@
+{
+  "universities": [
+    {
+      "id": "wit",
+      "university_name": "Walchand Institute of Technology (WIT)",
+      "short_name": "WIT",
+      "city": "Solapur",
+      "type": "Engineering College",
+      "courses_offered": [
+        "B.Tech in Computer Science and Engineering",
+        "B.Tech in Electronics and Telecommunication",
+        "B.Tech in Mechanical Engineering",
+        "B.Tech in Civil Engineering",
+        "B.Tech in Electrical Engineering",
+        "B.Tech in Information Technology",
+        "M.Tech in various specializations"
+      ],
+      "admission_process": "Admission through MHT-CET / JEE Main. Counseling conducted by DTE Maharashtra. Direct admission for management quota seats available.",
+      "fees": {
+        "annual_tuition": "₹85,000 per year",
+        "hostel_fee": "₹45,000 per year (Boys), ₹42,000 per year (Girls)",
+        "total_approximate": "₹1,30,000 per year (including hostel)"
+      },
+      "hostel_facility": "Yes. Separate hostels for boys and girls with mess facility, Wi-Fi, recreation room, and 24/7 security.",
+      "contact_number": "0217-2320567",
+      "email": "principal@witsolapur.org",
+      "website": "https://www.witsolapur.org",
+      "address": "Ashok Chowk, Solapur - 413006, Maharashtra",
+      "placement_information": {
+        "placement_rate": "85%",
+        "average_package": "₹4.5 LPA",
+        "highest_package": "₹12 LPA",
+        "top_recruiters": ["TCS", "Infosys", "Wipro", "Tech Mahindra", "Cognizant"],
+        "placement_cell_location": "A Block, 2nd Floor"
+      },
+      "facilities": [
+        "Central Library with 50,000+ books",
+        "Computer Labs with latest software",
+        "Sports Complex",
+        "Cafeteria",
+        "Medical Room",
+        "Transportation",
+        "Wi-Fi Campus"
+      ],
+      "clubs": [
+        "Coding Club",
+        "Robotics Club",
+        "Drama Club",
+        "Music Club",
+        "Sports Club",
+        "Cultural Committee"
+      ]
+    },
+    {
+      "id": "walchand_college",
+      "university_name": "Walchand College of Arts and Science",
+      "short_name": "Walchand College",
+      "city": "Solapur",
+      "type": "Arts and Science College",
+      "courses_offered": [
+        "B.A. in English, Marathi, History, Economics",
+        "B.Sc. in Physics, Chemistry, Mathematics, Computer Science, Biotechnology",
+        "B.Com",
+        "M.A. in various subjects",
+        "M.Sc. in various subjects",
+        "M.Com"
+      ],
+      "admission_process": "Admission through merit-based selection. Online application through college website. Direct admission for some courses.",
+      "fees": {
+        "annual_tuition": "₹15,000 - ₹25,000 per year (varies by course)",
+        "hostel_fee": "₹30,000 per year",
+        "total_approximate": "₹45,000 - ₹55,000 per year (including hostel)"
+      },
+      "hostel_facility": "Yes. Hostel available with basic amenities, mess facility, and study rooms.",
+      "contact_number": "0217-2323456",
+      "email": "info@walchandcollege.ac.in",
+      "website": "https://www.walchandcollege.ac.in",
+      "address": "Solapur - 413006, Maharashtra",
+      "placement_information": {
+        "placement_rate": "60%",
+        "average_package": "₹2.5 LPA",
+        "highest_package": "₹5 LPA",
+        "top_recruiters": ["Local Industries", "Banks", "Educational Institutions"],
+        "placement_cell_location": "Main Building, 1st Floor"
+      },
+      "facilities": [
+        "Library with 30,000+ books",
+        "Computer Lab",
+        "Science Labs",
+        "Sports Ground",
+        "Canteen",
+        "Auditorium"
+      ],
+      "clubs": [
+        "Literary Club",
+        "Science Club",
+        "Cultural Club",
+        "Sports Club"
+      ]
+    },
+    {
+      "id": "kbp_college",
+      "university_name": "KBP College of Engineering",
+      "short_name": "KBP Engineering",
+      "city": "Solapur",
+      "type": "Engineering College",
+      "courses_offered": [
+        "B.Tech in Computer Engineering",
+        "B.Tech in Electronics and Telecommunication",
+        "B.Tech in Mechanical Engineering",
+        "B.Tech in Civil Engineering",
+        "MBA"
+      ],
+      "admission_process": "Admission through MHT-CET / JEE Main. Counseling by DTE Maharashtra. Management quota available.",
+      "fees": {
+        "annual_tuition": "₹75,000 per year",
+        "hostel_fee": "₹40,000 per year",
+        "total_approximate": "₹1,15,000 per year (including hostel)"
+      },
+      "hostel_facility": "Yes. Hostel with mess, Wi-Fi, and recreational facilities available.",
+      "contact_number": "0217-2334567",
+      "email": "info@kbpcoes.edu.in",
+      "website": "https://www.kbpcoes.edu.in",
+      "address": "Satara Road, Solapur - 413002, Maharashtra",
+      "placement_information": {
+        "placement_rate": "75%",
+        "average_package": "₹3.8 LPA",
+        "highest_package": "₹10 LPA",
+        "top_recruiters": ["TCS", "Infosys", "L&T", "Persistent Systems"],
+        "placement_cell_location": "Administrative Block"
+      },
+      "facilities": [
+        "Library",
+        "Computer Labs",
+        "Workshop",
+        "Sports Complex",
+        "Cafeteria",
+        "Transportation"
+      ],
+      "clubs": [
+        "Technical Club",
+        "Innovation Club",
+        "Cultural Club",
+        "Sports Club"
+      ]
+    },
+    {
+      "id": "dypiet",
+      "university_name": "D.Y. Patil Institute of Engineering and Technology",
+      "short_name": "DYP Engineering",
+      "city": "Solapur",
+      "type": "Engineering College",
+      "courses_offered": [
+        "B.Tech in Computer Science",
+        "B.Tech in Electronics",
+        "B.Tech in Mechanical Engineering",
+        "B.Tech in Civil Engineering",
+        "M.Tech programs"
+      ],
+      "admission_process": "Admission through MHT-CET / JEE Main. DTE counseling process. Direct admission available.",
+      "fees": {
+        "annual_tuition": "₹80,000 per year",
+        "hostel_fee": "₹42,000 per year",
+        "total_approximate": "₹1,22,000 per year (including hostel)"
+      },
+      "hostel_facility": "Yes. Modern hostel with all amenities including Wi-Fi, gym, and mess.",
+      "contact_number": "0217-2345678",
+      "email": "info@dyppiet.edu.in",
+      "website": "https://www.dyppiet.edu.in",
+      "address": "Ambi, Talegaon, Solapur - 413002, Maharashtra",
+      "placement_information": {
+        "placement_rate": "80%",
+        "average_package": "₹4.2 LPA",
+        "highest_package": "₹11 LPA",
+        "top_recruiters": ["Infosys", "Wipro", "Capgemini", "Tech Mahindra"],
+        "placement_cell_location": "Main Building, Ground Floor"
+      },
+      "facilities": [
+        "Modern Library",
+        "Advanced Computer Labs",
+        "Workshop",
+        "Sports Facilities",
+        "Cafeteria",
+        "Medical Center",
+        "Wi-Fi Campus"
+      ],
+      "clubs": [
+        "Coding Club",
+        "Robotics Club",
+        "Cultural Club",
+        "Sports Club",
+        "Entrepreneurship Cell"
+      ]
+    },
+    {
+      "id": "solapur_university",
+      "university_name": "Punyashlok Ahilyadevi Holkar Solapur University",
+      "short_name": "Solapur University",
+      "city": "Solapur",
+      "type": "University",
+      "courses_offered": [
+        "Various UG and PG programs in Arts, Science, Commerce",
+        "Engineering programs through affiliated colleges",
+        "MBA, MCA",
+        "Ph.D. programs in multiple disciplines"
+      ],
+      "admission_process": "Admission through university entrance exams and merit-based selection. Online application process.",
+      "fees": {
+        "annual_tuition": "₹10,000 - ₹50,000 per year (varies by course and college)",
+        "hostel_fee": "Varies by affiliated college",
+        "total_approximate": "Depends on course and college"
+      },
+      "hostel_facility": "Hostel facilities available at affiliated colleges.",
+      "contact_number": "0217-2744000",
+      "email": "info@su.ac.in",
+      "website": "https://www.su.ac.in",
+      "address": "University Road, Solapur - 413255, Maharashtra",
+      "placement_information": {
+        "placement_rate": "Varies by college",
+        "average_package": "Varies by course",
+        "highest_package": "Varies by college",
+        "top_recruiters": ["Various companies through affiliated colleges"],
+        "placement_cell_location": "University Campus"
+      },
+      "facilities": [
+        "Central Library",
+        "Research Centers",
+        "Sports Complex",
+        "Auditorium",
+        "Computer Center"
+      ],
+      "clubs": [
+        "Various clubs through affiliated colleges"
+      ]
+    }
+  ]
+}

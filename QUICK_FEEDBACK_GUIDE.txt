@@ -1,0 +1,53 @@
+╔══════════════════════════════════════════════════════════════╗
+║           FEEDBACK FEATURE - QUICK REFERENCE                 ║
+╚══════════════════════════════════════════════════════════════╝
+
+✅ WHAT'S NEW
+  • 👍 Helpful button below each bot response
+  • 👎 Not Helpful button below each bot response
+  • Feedback saved to feedback.csv
+  • Thank you message after clicking
+  • Works in both light and dark mode
+
+🚀 RUN THE APP
+  python -m streamlit run app_history.py
+
+📊 VIEW FEEDBACK DATA
+  python view_feedback.py
+
+🧪 TEST THE FEATURE
+  python test_feedback_feature.py
+
+📁 FILES
+  • feedback.csv - Stores all feedback (auto-created)
+  • FEEDBACK_FEATURE.md - Full documentation
+  • FEEDBACK_SUMMARY.md - Quick summary
+
+💡 HOW IT WORKS
+  1. User asks question
+  2. Bot responds
+  3. User clicks 👍 or 👎
+  4. Feedback saved to CSV
+  5. Thank you message appears
+
+📈 ANALYZE FEEDBACK
+  import pandas as pd
+  df = pd.read_csv('feedback.csv')
+  print(df['Feedback'].value_counts())
+
+✨ FEATURES
+  • No page reload
+  • Clean UI
+  • Professional styling
+  • Theme-aware
+  • Privacy-friendly
+
+🎯 BENEFITS
+  • Track response quality
+  • Improve chatbot
+  • Data-driven decisions
+  • User satisfaction metrics
+
+═══════════════════════════════════════════════════════════════
+                    READY TO USE! 🎉
+═══════════════════════════════════════════════════════════════

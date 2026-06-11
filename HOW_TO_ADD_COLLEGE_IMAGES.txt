@@ -1,0 +1,154 @@
+═══════════════════════════════════════════════════════════════
+   📸 HOW TO ADD COLLEGE IMAGES TO YOUR CHATBOT
+═══════════════════════════════════════════════════════════════
+
+STEP 1: PREPARE YOUR IMAGES
+───────────────────────────────────────────────────────────────
+• Collect images of colleges (from websites, Google, etc.)
+• Supported formats: .jpg, .jpeg, .png
+• Recommended size: 800x600 pixels or larger
+• Make sure images are clear and professional
+
+
+STEP 2: CHECK REQUIRED FILENAMES
+───────────────────────────────────────────────────────────────
+Run this command to see all required filenames:
+
+    python add_college_images.py
+
+This will show you:
+• List of all colleges
+• Expected filename for each college
+• Which images are already added (✅) or missing (❌)
+
+
+STEP 3: RENAME YOUR IMAGES
+───────────────────────────────────────────────────────────────
+Rename your college images to match the expected filenames.
+
+EXAMPLES:
+┌─────────────────────────────────────────────────────────────┐
+│ College Name                          │ Filename            │
+├───────────────────────────────────────┼─────────────────────┤
+│ Walchand Institute of Technology      │ wit.jpg             │
+│ KBP College of Engineering            │ kbp_engineering.jpg │
+│ D.Y. Patil Institute                  │ dyp_engineering.jpg │
+│ Government Medical College            │ govt_medical.jpg    │
+│ Dayanand College                      │ dayanand_college.jpg│
+│ Solapur University                    │ solapur_univ.jpg    │
+└─────────────────────────────────────────────────────────────┘
+
+
+STEP 4: COPY IMAGES TO FOLDER
+───────────────────────────────────────────────────────────────
+Copy your renamed images to:
+
+    data/college_images/
+
+Example:
+    data/college_images/wit.jpg
+    data/college_images/kbp_engineering.jpg
+    data/college_images/dyp_engineering.jpg
+
+
+STEP 5: VERIFY IMAGES
+───────────────────────────────────────────────────────────────
+Run the script again to verify:
+
+    python add_college_images.py
+
+You should see ✅ next to colleges with images added.
+
+
+STEP 6: RESTART CHATBOT
+───────────────────────────────────────────────────────────────
+1. Stop the chatbot (Ctrl+C in terminal)
+2. Run START_CHATBOT.bat again
+3. Ask about a college with an image
+4. You should see the college's actual photo!
+
+
+═══════════════════════════════════════════════════════════════
+   💡 TIPS
+═══════════════════════════════════════════════════════════════
+
+✓ Start with popular colleges (WIT, KBP, DYP, etc.)
+✓ Use high-quality images for better appearance
+✓ Images will automatically show in college cards
+✓ If no image is found, a placeholder will be used
+✓ You can add images gradually (no need to add all at once)
+
+
+═══════════════════════════════════════════════════════════════
+   🎯 QUICK START (Add 5 Most Important Colleges)
+═══════════════════════════════════════════════════════════════
+
+1. Download/find images for these colleges:
+   • Walchand Institute of Technology (WIT)
+   • KBP College of Engineering
+   • D.Y. Patil Institute of Engineering
+   • Government Medical College
+   • Dayanand College
+
+2. Rename them:
+   • wit.jpg
+   • kbp_engineering.jpg
+   • dyp_engineering.jpg
+   • govt_medical_college.jpg
+   • dayanand_college.jpg
+
+3. Copy to: data/college_images/
+
+4. Restart chatbot
+
+5. Test by asking: "Tell me about WIT"
+
+
+═══════════════════════════════════════════════════════════════
+   📁 FOLDER STRUCTURE
+═══════════════════════════════════════════════════════════════
+
+Campus_info_chatbot/
+├── data/
+│   ├── college_images/          ← PUT IMAGES HERE
+│   │   ├── wit.jpg
+│   │   ├── kbp_engineering.jpg
+│   │   ├── dyp_engineering.jpg
+│   │   └── ...
+│   ├── handbook.txt
+│   └── solapur_colleges_handbook.txt
+├── app_solapur_optimized.py
+├── add_college_images.py        ← RUN THIS TO CHECK
+└── START_CHATBOT.bat
+
+
+═══════════════════════════════════════════════════════════════
+   🔧 TROUBLESHOOTING
+═══════════════════════════════════════════════════════════════
+
+❌ Image not showing?
+   → Check filename matches exactly (case-sensitive)
+   → Make sure image is in data/college_images/ folder
+   → Restart the chatbot
+
+❌ Wrong image showing?
+   → Check if filename is correct
+   → Make sure only one image per college
+
+❌ Image too large/small?
+   → Resize image to 800x600 pixels
+   → Use online tools like: iloveimg.com
+
+
+═══════════════════════════════════════════════════════════════
+   ✨ DONE!
+═══════════════════════════════════════════════════════════════
+
+Now your chatbot will show actual college photos instead of
+placeholder images!
+
+Run: python add_college_images.py
+to see which images you've added and which are still missing.
+
+
+═══════════════════════════════════════════════════════════════

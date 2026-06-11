@@ -1,0 +1,803 @@
+{
+  "city": "Solapur",
+  "state": "Maharashtra",
+  "total_colleges": 35,
+  "categories": {
+    "universities": {
+      "name": "Universities in Solapur",
+      "colleges": [
+        {
+          "name": "Punyashlok Ahilyadevi Holkar Solapur University",
+          "short_name": "Solapur University",
+          "type": "State University",
+          "established": "2004",
+          "location": "University Road, Solapur - 413255",
+          "contact": "0217-2744000",
+          "email": "info@su.ac.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "UG Programs",
+            "PG Programs",
+            "Ph.D. Programs",
+            "Diploma Courses"
+          ],
+          "affiliation": "Autonomous",
+          "facilities": [
+            "Central Library",
+            "Research Centers",
+            "Sports Complex",
+            "Hostels"
+          ],
+          "description": "Main university in Solapur offering various undergraduate, postgraduate, and doctoral programs through affiliated colleges."
+        },
+        {
+          "name": "MIT Vishwaprayag University",
+          "short_name": "MIT VPU",
+          "type": "Private University",
+          "established": "2017",
+          "location": "Loni Kalbhor, Pune-Solapur Highway",
+          "contact": "020-30273000",
+          "email": "info@mitvpu.edu.in",
+          "website": "https://www.mitvpu.edu.in",
+          "courses": [
+            "Engineering",
+            "Management",
+            "Pharmacy",
+            "Design",
+            "Science"
+          ],
+          "affiliation": "Autonomous",
+          "facilities": [
+            "Modern Campus",
+            "Research Labs",
+            "Sports Facilities",
+            "Hostels"
+          ],
+          "description": "Private university offering diverse programs with focus on innovation and research."
+        }
+      ]
+    },
+    "engineering": {
+      "name": "Engineering Colleges in Solapur",
+      "colleges": [
+        {
+          "name": "Walchand Institute of Technology",
+          "short_name": "WIT",
+          "type": "Government Aided Engineering College",
+          "established": "1983",
+          "location": "Ashok Chowk, Solapur - 413006",
+          "contact": "0217-2320567",
+          "email": "principal@witsolapur.org",
+          "website": "https://www.witsolapur.org",
+          "photo_url": "https://images.unsplash.com/photo-1562774053-701939374585?w=800",
+          "history": "Walchand Institute of Technology (WIT) was established in 1983 by the Walchand Education Society. Named after the great industrialist Seth Walchand Hirachand, the institute has been a pioneer in technical education in the Solapur region. Over the past four decades, WIT has grown to become one of the most prestigious engineering colleges in Maharashtra, known for its excellent faculty, state-of-the-art infrastructure, and outstanding placement record. The college has produced thousands of successful engineers who are contributing to various industries worldwide.",
+          "courses": [
+            "Computer Science Engineering",
+            "Information Technology",
+            "Electronics & Telecommunication",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "Electrical Engineering"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "480 students",
+          "fees": "₹85,000 per year",
+          "placement_rate": "85%",
+          "facilities": [
+            "Central Library",
+            "Computer Labs",
+            "Workshop",
+            "Sports Complex",
+            "Hostels"
+          ],
+          "description": "Premier engineering college with excellent placement record and modern infrastructure."
+        },
+        {
+          "name": "N. B. Navale Sinhgad College of Engineering",
+          "short_name": "Sinhgad COE",
+          "type": "Private Engineering College",
+          "established": "2010",
+          "location": "Kegaon, Solapur - 413255",
+          "contact": "0217-2231234",
+          "email": "info@sinhgad.edu",
+          "website": "https://www.sinhgad.edu",
+          "courses": [
+            "Computer Engineering",
+            "Mechanical Engineering",
+            "Civil Engineering",
+            "E&TC"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "360 students",
+          "fees": "₹70,000 per year",
+          "placement_rate": "70%",
+          "facilities": [
+            "Library",
+            "Labs",
+            "Workshop",
+            "Sports",
+            "Hostel"
+          ],
+          "description": "Part of Sinhgad group, offering quality engineering education."
+        },
+        {
+          "name": "Orchid College of Engineering and Technology",
+          "short_name": "Orchid Engineering",
+          "type": "Private Engineering College",
+          "established": "2009",
+          "location": "Solapur - 413002",
+          "contact": "0217-2245678",
+          "email": "info@orchidcollege.edu.in",
+          "website": "https://orchidengg.ac.in",
+          "courses": [
+            "Computer Science",
+            "Mechanical",
+            "Civil",
+            "Electronics"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "240 students",
+          "fees": "₹65,000 per year",
+          "placement_rate": "65%",
+          "facilities": [
+            "Library",
+            "Computer Labs",
+            "Workshop",
+            "Canteen"
+          ],
+          "description": "Growing engineering college with focus on practical learning."
+        },
+        {
+          "name": "A. G. Patil Institute of Technology",
+          "short_name": "AGPIT",
+          "type": "Private Engineering College",
+          "established": "2007",
+          "location": "Solapur - 413006",
+          "contact": "0217-2256789",
+          "email": "info@agpit.edu.in",
+          "website": "https://agpit.edu.in",
+          "courses": [
+            "Computer Engineering",
+            "Mechanical Engineering",
+            "Civil Engineering"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "180 students",
+          "fees": "₹60,000 per year",
+          "placement_rate": "60%",
+          "facilities": [
+            "Library",
+            "Labs",
+            "Sports Ground",
+            "Canteen"
+          ],
+          "description": "Engineering college providing affordable quality education."
+        },
+        {
+          "name": "Government Polytechnic Solapur",
+          "short_name": "Govt Polytechnic",
+          "type": "Government Polytechnic",
+          "established": "1960",
+          "location": "Solapur - 413002",
+          "contact": "0217-2267890",
+          "email": "govtpolysolapur@gmail.com",
+          "website": "https://gpsolapur.ac.in",
+          "courses": [
+            "Diploma in Computer",
+            "Diploma in Mechanical",
+            "Diploma in Civil",
+            "Diploma in Electrical"
+          ],
+          "affiliation": "MSBTE",
+          "intake": "360 students",
+          "fees": "₹15,000 per year",
+          "placement_rate": "55%",
+          "facilities": [
+            "Library",
+            "Workshops",
+            "Labs",
+            "Sports"
+          ],
+          "description": "Government polytechnic offering diploma courses at affordable fees."
+        },
+        {
+          "name": "KBP College of Engineering",
+          "short_name": "KBP Engineering",
+          "type": "Private Engineering College",
+          "established": "2008",
+          "location": "Satara Road, Solapur - 413002",
+          "contact": "0217-2334567",
+          "email": "info@kbpcoes.edu.in",
+          "website": "https://kbpcoes.edu.in",
+          "courses": [
+            "Computer Engineering",
+            "E&TC",
+            "Mechanical",
+            "Civil",
+            "MBA"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "420 students",
+          "fees": "₹75,000 per year",
+          "placement_rate": "75%",
+          "facilities": [
+            "Library",
+            "Computer Labs",
+            "Workshop",
+            "Sports Complex",
+            "Hostel"
+          ],
+          "description": "Well-established engineering college with good placement record.",
+          "photo_url": "https://images.unsplash.com/photo-1498243691581-b145c3f54a5a?w=800",
+          "history": "KBP College of Engineering was established in 2008 with a vision to provide quality technical education. The college is part of the KBP Education Trust and has grown rapidly to become one of the prominent engineering institutions in Solapur. With modern infrastructure, experienced faculty, and strong industry connections, KBP has consistently maintained good placement records and academic excellence."
+        },
+        {
+          "name": "D.Y. Patil Institute of Engineering and Technology",
+          "short_name": "DYP Engineering",
+          "type": "Private Engineering College",
+          "established": "2010",
+          "location": "Ambi, Talegaon, Solapur - 413002",
+          "contact": "0217-2345678",
+          "email": "info@dyppiet.edu.in",
+          "website": "https://engg.dypvp.edu.in",
+          "courses": [
+            "Computer Science",
+            "Electronics",
+            "Mechanical",
+            "Civil",
+            "M.Tech"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "480 students",
+          "fees": "₹80,000 per year",
+          "placement_rate": "80%",
+          "facilities": [
+            "Modern Library",
+            "Advanced Labs",
+            "Workshop",
+            "Sports",
+            "Hostel"
+          ],
+          "description": "Part of DY Patil group, known for quality education and placements.",
+          "photo_url": "https://images.unsplash.com/photo-1523050854058-8df90110c9f1?w=800",
+          "history": "D.Y. Patil Institute of Engineering and Technology, established in 2010, is part of the renowned D.Y. Patil Education Society. The institute is committed to providing world-class technical education with state-of-the-art facilities. Known for its innovative teaching methods and strong emphasis on research and development, DYP has quickly established itself as a leading engineering college in the region."
+        }
+      ]
+    },
+    "medical": {
+      "name": "Medical & Health Colleges in Solapur",
+      "colleges": [
+        {
+          "name": "Dr. Vaishampayan Memorial Government Medical College",
+          "short_name": "Govt Medical College",
+          "type": "Government Medical College",
+          "established": "2017",
+          "location": "Solapur - 413003",
+          "contact": "0217-2278901",
+          "email": "gmcsolapur@gmail.com",
+          "website": "https://vmgmc.edu.in",
+          "courses": [
+            "MBBS",
+            "MD",
+            "MS"
+          ],
+          "affiliation": "Maharashtra University of Health Sciences",
+          "intake": "150 MBBS seats",
+          "fees": "₹50,000 per year (Govt quota)",
+          "facilities": [
+            "Teaching Hospital",
+            "Library",
+            "Labs",
+            "Hostels"
+          ],
+          "description": "Government medical college with attached teaching hospital.",
+          "photo_url": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?w=800",
+          "history": "Dr. Vaishampayan Memorial Government Medical College was established in 2017 to address the growing need for medical education in the Solapur region. Named after the renowned physician Dr. Vaishampayan, the college is equipped with modern medical facilities and a well-equipped teaching hospital. It aims to produce competent medical professionals who can serve the healthcare needs of rural and urban populations."
+        },
+        {
+          "name": "Ashwini Rural Medical College Hospital and Research Centre",
+          "short_name": "Ashwini Medical College",
+          "type": "Private Medical College",
+          "established": "2006",
+          "location": "Kumbhari, Solapur - 413006",
+          "contact": "0217-2289012",
+          "email": "info@ashwinimedical.org",
+          "website": "https://armch.org",
+          "courses": [
+            "MBBS",
+            "MD",
+            "MS",
+            "Nursing"
+          ],
+          "affiliation": "Maharashtra University of Health Sciences",
+          "intake": "150 MBBS seats",
+          "fees": "₹15,00,000 per year",
+          "facilities": [
+            "Multi-specialty Hospital",
+            "Research Center",
+            "Library",
+            "Hostels"
+          ],
+          "description": "Private medical college with focus on rural healthcare."
+        },
+        {
+          "name": "Pandit Deendayal Upadhyay Dental College",
+          "short_name": "PDU Dental College",
+          "type": "Private Dental College",
+          "established": "2008",
+          "location": "Solapur - 413004",
+          "contact": "0217-2290123",
+          "email": "info@pdudental.edu.in",
+          "website": "https://www.sus.ac.in/school_dental",
+          "courses": [
+            "BDS",
+            "MDS"
+          ],
+          "affiliation": "Maharashtra University of Health Sciences",
+          "intake": "100 BDS seats",
+          "fees": "₹3,50,000 per year",
+          "facilities": [
+            "Dental Hospital",
+            "Labs",
+            "Library",
+            "Hostel"
+          ],
+          "description": "Dental college with modern facilities and clinical training."
+        },
+        {
+          "name": "Solapur Institute of Nursing",
+          "short_name": "Nursing Institute",
+          "type": "Nursing College",
+          "established": "2005",
+          "location": "Solapur - 413002",
+          "contact": "0217-2291234",
+          "email": "info@solapurnursing.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "B.Sc Nursing",
+            "GNM",
+            "ANM",
+            "Post Basic B.Sc Nursing"
+          ],
+          "affiliation": "Maharashtra Nursing Council",
+          "intake": "100 students",
+          "fees": "₹60,000 per year",
+          "facilities": [
+            "Hospital Training",
+            "Labs",
+            "Library",
+            "Hostel"
+          ],
+          "description": "Nursing college providing quality healthcare education."
+        }
+      ]
+    },
+    "commerce_management": {
+      "name": "Commerce / Management Colleges in Solapur",
+      "colleges": [
+        {
+          "name": "Hirachand Nemchand College of Commerce",
+          "short_name": "HN Commerce College",
+          "type": "Commerce College",
+          "established": "1965",
+          "location": "Solapur - 413001",
+          "contact": "0217-2292345",
+          "email": "info@hncommerce.edu.in",
+          "website": "http://www.hnccsolapur.org",
+          "courses": [
+            "B.Com",
+            "M.Com",
+            "BBA",
+            "MBA"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "600 students",
+          "fees": "₹20,000 per year",
+          "facilities": [
+            "Library",
+            "Computer Lab",
+            "Auditorium",
+            "Canteen"
+          ],
+          "description": "Oldest and most reputed commerce college in Solapur.",
+          "photo_url": "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800",
+          "history": "Hirachand Nemchand College of Commerce, established in 1965, is the premier commerce college in Solapur. Founded by philanthropists Hirachand and Nemchand, the college has been instrumental in shaping business leaders and commerce professionals for over five decades. With its strong focus on practical business education and industry connections, it continues to be the first choice for commerce students in the region."
+        },
+        {
+          "name": "Sangameshwar College",
+          "short_name": "Sangameshwar College",
+          "type": "Commerce & Management College",
+          "established": "1972",
+          "location": "Solapur - 413002",
+          "contact": "0217-2293456",
+          "email": "info@sangameshwar.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "B.Com",
+            "M.Com",
+            "BBA",
+            "MBA",
+            "B.A."
+          ],
+          "affiliation": "Solapur University",
+          "intake": "500 students",
+          "fees": "₹18,000 per year",
+          "facilities": [
+            "Library",
+            "Computer Center",
+            "Sports",
+            "Canteen"
+          ],
+          "description": "Multi-faculty college with strong commerce department."
+        },
+        {
+          "name": "K. P. Mangalvedhekar Institute of Management Development and Research",
+          "short_name": "KPMIMDR",
+          "type": "Management Institute",
+          "established": "1995",
+          "location": "Solapur - 413004",
+          "contact": "0217-2294567",
+          "email": "info@kpmimdr.edu.in",
+          "website": "https://kpmim.org",
+          "courses": [
+            "MBA",
+            "PGDM",
+            "Executive MBA"
+          ],
+          "affiliation": "AICTE Approved",
+          "intake": "120 students",
+          "fees": "₹1,20,000 per year",
+          "facilities": [
+            "Library",
+            "Computer Lab",
+            "Seminar Halls",
+            "Placement Cell"
+          ],
+          "description": "Premier management institute with excellent placement record."
+        },
+        {
+          "name": "Shri Siddheshwar Commerce College",
+          "short_name": "Siddheshwar Commerce",
+          "type": "Commerce College",
+          "established": "1980",
+          "location": "Solapur - 413003",
+          "contact": "0217-2295678",
+          "email": "info@siddheshwarcommerce.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "B.Com",
+            "M.Com",
+            "BBA"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "400 students",
+          "fees": "₹15,000 per year",
+          "facilities": [
+            "Library",
+            "Computer Lab",
+            "Auditorium"
+          ],
+          "description": "Well-established commerce college with experienced faculty."
+        }
+      ]
+    },
+    "arts_science": {
+      "name": "Arts / Science Colleges in Solapur",
+      "colleges": [
+        {
+          "name": "Dayanand College of Arts Science and Commerce",
+          "short_name": "Dayanand College",
+          "type": "Multi-faculty College",
+          "established": "1945",
+          "location": "Solapur - 413002",
+          "contact": "0217-2296789",
+          "email": "info@dayanandcollege.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "B.A.",
+            "B.Sc.",
+            "B.Com",
+            "M.A.",
+            "M.Sc.",
+            "M.Com"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "1000 students",
+          "fees": "₹12,000 per year",
+          "facilities": [
+            "Central Library",
+            "Science Labs",
+            "Computer Center",
+            "Sports",
+            "Hostel"
+          ],
+          "description": "One of the oldest and largest colleges in Solapur with diverse programs.",
+          "photo_url": "https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800",
+          "history": "Dayanand College, established in 1945, is one of the oldest and most prestigious institutions in Solapur. Named after Swami Dayanand Saraswati, the college has a rich legacy of over 75 years in providing quality education. With a sprawling campus and comprehensive facilities, it offers diverse programs in Arts, Science, and Commerce, shaping thousands of successful professionals over the decades."
+        },
+        {
+          "name": "Walchand College of Arts and Science",
+          "short_name": "Walchand College",
+          "type": "Arts & Science College",
+          "established": "1946",
+          "location": "Solapur - 413006",
+          "contact": "0217-2323456",
+          "email": "info@walchandcollege.ac.in",
+          "website": "http://wcassolapur.org",
+          "courses": [
+            "B.A.",
+            "B.Sc.",
+            "B.Com",
+            "M.A.",
+            "M.Sc.",
+            "M.Com"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "800 students",
+          "fees": "₹15,000 per year",
+          "facilities": [
+            "Library",
+            "Science Labs",
+            "Computer Lab",
+            "Sports",
+            "Hostel"
+          ],
+          "description": "Prestigious college known for quality education in arts and sciences.",
+          "photo_url": "https://images.unsplash.com/photo-1564981797816-1043664bf78d?w=800",
+          "history": "Walchand College of Arts and Science was founded in 1946 by the Walchand Education Society. The college has been a beacon of quality education in Solapur for over seven decades. With its commitment to academic excellence and holistic development, the college has produced numerous distinguished alumni who have excelled in various fields including academia, administration, and industry."
+        },
+        {
+          "name": "Bhai Channusingh Chandele College of Social Work",
+          "short_name": "Social Work College",
+          "type": "Social Work College",
+          "established": "1985",
+          "location": "Solapur - 413001",
+          "contact": "0217-2297890",
+          "email": "info@socialworkcollege.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "BSW",
+            "MSW",
+            "Diploma in Social Work"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "200 students",
+          "fees": "₹18,000 per year",
+          "facilities": [
+            "Library",
+            "Computer Lab",
+            "Field Work Centers"
+          ],
+          "description": "Specialized college for social work education and community development."
+        },
+        {
+          "name": "Global Village Arts Science and Commerce College",
+          "short_name": "Global Village College",
+          "type": "Multi-faculty College",
+          "established": "2005",
+          "location": "Solapur - 413004",
+          "contact": "0217-2298901",
+          "email": "info@globalvillage.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "B.A.",
+            "B.Sc.",
+            "B.Com",
+            "BCA",
+            "BBA"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "600 students",
+          "fees": "₹20,000 per year",
+          "facilities": [
+            "Library",
+            "Computer Lab",
+            "Science Labs",
+            "Sports"
+          ],
+          "description": "Modern college with focus on holistic education."
+        },
+        {
+          "name": "Shri Siddheshwar Arts Commerce and Science College",
+          "short_name": "Siddheshwar College",
+          "type": "Multi-faculty College",
+          "established": "1968",
+          "location": "Solapur - 413003",
+          "contact": "0217-2299012",
+          "email": "info@siddheshwarcollege.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "B.A.",
+            "B.Sc.",
+            "B.Com",
+            "M.A.",
+            "M.Sc."
+          ],
+          "affiliation": "Solapur University",
+          "intake": "700 students",
+          "fees": "₹14,000 per year",
+          "facilities": [
+            "Library",
+            "Labs",
+            "Computer Center",
+            "Sports Ground"
+          ],
+          "description": "Well-established college with strong academic reputation."
+        }
+      ]
+    },
+    "other": {
+      "name": "Other Colleges in Solapur",
+      "colleges": [
+        {
+          "name": "Bhagwant Institute of Technology",
+          "short_name": "BIT",
+          "type": "Polytechnic & Diploma",
+          "established": "2000",
+          "location": "Solapur - 413002",
+          "contact": "0217-2300123",
+          "email": "info@bhagwanttech.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "Diploma in Computer",
+            "Diploma in Mechanical",
+            "Diploma in Electronics"
+          ],
+          "affiliation": "MSBTE",
+          "intake": "180 students",
+          "fees": "₹35,000 per year",
+          "facilities": [
+            "Labs",
+            "Workshop",
+            "Library"
+          ],
+          "description": "Technical institute offering diploma courses."
+        },
+        {
+          "name": "Shri Shivaji Mahavidyalaya",
+          "short_name": "Shivaji College",
+          "type": "General College",
+          "established": "1975",
+          "location": "Solapur - 413001",
+          "contact": "0217-2301234",
+          "email": "info@shivajicollege.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "B.A.",
+            "B.Com",
+            "B.Sc."
+          ],
+          "affiliation": "Solapur University",
+          "intake": "400 students",
+          "fees": "₹10,000 per year",
+          "facilities": [
+            "Library",
+            "Computer Lab",
+            "Sports"
+          ],
+          "description": "General degree college offering undergraduate programs."
+        },
+        {
+          "name": "Ardhanari Nateshwar Mahavidyalaya",
+          "short_name": "AN College",
+          "type": "General College",
+          "established": "1982",
+          "location": "Solapur - 413002",
+          "contact": "0217-2302345",
+          "email": "info@ancollege.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "B.A.",
+            "B.Com"
+          ],
+          "affiliation": "Solapur University",
+          "intake": "300 students",
+          "fees": "₹8,000 per year",
+          "facilities": [
+            "Library",
+            "Computer Room",
+            "Canteen"
+          ],
+          "description": "College providing affordable education to rural students."
+        },
+        {
+          "name": "Baburao Patil College of Arts and Science",
+          "short_name": "BP College",
+          "type": "Arts & Science College",
+          "established": "1990",
+          "location": "Solapur - 413003",
+          "contact": "0217-2303456",
+          "email": "info@bpcollege.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "B.A.",
+            "B.Sc.",
+            "M.A."
+          ],
+          "affiliation": "Solapur University",
+          "intake": "350 students",
+          "fees": "₹12,000 per year",
+          "facilities": [
+            "Library",
+            "Science Labs",
+            "Computer Lab"
+          ],
+          "description": "College focusing on arts and science education."
+        },
+        {
+          "name": "Solapur College of Pharmacy",
+          "short_name": "Pharmacy College",
+          "type": "Pharmacy College",
+          "established": "2008",
+          "location": "Solapur - 413004",
+          "contact": "0217-2304567",
+          "email": "info@solapurpharmacy.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "D.Pharm",
+            "B.Pharm",
+            "M.Pharm"
+          ],
+          "affiliation": "Pharmacy Council of India",
+          "intake": "100 students",
+          "fees": "₹80,000 per year",
+          "facilities": [
+            "Pharmacy Labs",
+            "Library",
+            "Research Center"
+          ],
+          "description": "Pharmacy college with modern facilities and industry connections."
+        },
+        {
+          "name": "Solapur Institute of Hotel Management",
+          "short_name": "Hotel Management",
+          "type": "Hotel Management Institute",
+          "established": "2010",
+          "location": "Solapur - 413002",
+          "contact": "0217-2305678",
+          "email": "info@solapurhotel.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "Diploma in Hotel Management",
+            "B.Sc. Hospitality",
+            "Certificate Courses"
+          ],
+          "affiliation": "AICTE",
+          "intake": "60 students",
+          "fees": "₹70,000 per year",
+          "facilities": [
+            "Training Kitchen",
+            "Restaurant",
+            "Housekeeping Lab",
+            "Library"
+          ],
+          "description": "Institute providing professional training in hospitality industry."
+        },
+        {
+          "name": "Solapur Law College",
+          "short_name": "Law College",
+          "type": "Law College",
+          "established": "1995",
+          "location": "Solapur - 413001",
+          "contact": "0217-2306789",
+          "email": "info@solapurlaw.edu.in",
+          "website": "https://www.sus.ac.in",
+          "courses": [
+            "LLB (3 years)",
+            "LLB (5 years)",
+            "LLM"
+          ],
+          "affiliation": "Bar Council of India",
+          "intake": "120 students",
+          "fees": "₹40,000 per year",
+          "facilities": [
+            "Law Library",
+            "Moot Court",
+            "Computer Lab"
+          ],
+          "description": "Law college preparing students for legal profession."
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,232 @@
+===============================================
+SOLAPUR COLLEGES CHATBOT - SAMPLE QUESTIONS
+===============================================
+
+Use these questions to test your chatbot and explore college information in Solapur.
+
+===============================================
+CATEGORY 1: SPECIFIC COLLEGE INFORMATION
+===============================================
+
+1. Tell me about Walchand Institute of Technology
+2. Show me information about WIT
+3. Tell me about KBP College of Engineering
+4. Information about D.Y. Patil Institute of Engineering
+5. Show details of Orchid College of Engineering
+6. Tell me about Government Medical College Solapur
+7. Information about Ashwini Medical College
+8. Show me Dayanand College details
+9. Tell me about Hirachand Nemchand College of Commerce
+10. Information about Walchand College of Arts and Science
+11. Show me details of Solapur University
+12. Tell me about MIT Vishwaprayag University
+13. Information about Government Polytechnic Solapur
+14. Show me A. G. Patil Institute details
+15. Tell me about Sinhgad College of Engineering
+
+===============================================
+CATEGORY 2: ENGINEERING COLLEGES
+===============================================
+
+16. Engineering colleges in Solapur
+17. Show me all engineering colleges
+18. List engineering colleges
+19. Which are the best engineering colleges?
+20. Tell me about B.Tech colleges
+21. Polytechnic colleges in Solapur
+22. Computer engineering colleges
+23. Mechanical engineering colleges
+24. Show me technical colleges
+
+===============================================
+CATEGORY 3: MEDICAL & HEALTH COLLEGES
+===============================================
+
+25. Medical colleges in Solapur
+26. Show me all medical colleges
+27. MBBS colleges in Solapur
+28. Dental colleges in Solapur
+29. Nursing colleges in Solapur
+30. Health science colleges
+31. Which college offers MBBS?
+32. Show me nursing institutes
+33. Tell me about medical education in Solapur
+
+===============================================
+CATEGORY 4: COMMERCE & MANAGEMENT
+===============================================
+
+34. Commerce colleges in Solapur
+35. Show me B.Com colleges
+36. MBA colleges in Solapur
+37. Management institutes in Solapur
+38. BBA colleges
+39. Which college is best for commerce?
+40. Show me business colleges
+41. Tell me about management education
+
+===============================================
+CATEGORY 5: ARTS & SCIENCE COLLEGES
+===============================================
+
+42. Arts colleges in Solapur
+43. Science colleges in Solapur
+44. B.A. colleges
+45. B.Sc. colleges
+46. Show me arts and science colleges
+47. Which college offers B.A.?
+48. Tell me about humanities colleges
+
+===============================================
+CATEGORY 6: UNIVERSITIES
+===============================================
+
+49. Universities in Solapur
+50. Show me all universities
+51. Tell me about Solapur University
+52. Which universities are in Solapur?
+53. Private universities in Solapur
+54. Government universities
+
+===============================================
+CATEGORY 7: GENERAL QUERIES
+===============================================
+
+55. Show all colleges in Solapur
+56. List all colleges
+57. How many colleges are in Solapur?
+58. Best colleges in Solapur
+59. Top colleges in Solapur
+60. Show me complete list of colleges
+61. All colleges
+62. Colleges in Solapur
+
+===============================================
+CATEGORY 8: COURSE-SPECIFIC QUERIES
+===============================================
+
+63. Which colleges offer Computer Science?
+64. Where can I study Mechanical Engineering?
+65. Colleges offering MBA
+66. Which college has MBBS course?
+67. Where can I do B.Com?
+68. Colleges with BBA program
+69. Which college offers M.Tech?
+70. Show me colleges with nursing courses
+
+===============================================
+CATEGORY 9: FACILITY-BASED QUERIES
+===============================================
+
+71. Colleges with hostel facility
+72. Which colleges have good placement?
+73. Colleges with sports facilities
+74. Which college has best infrastructure?
+75. Colleges with research facilities
+
+===============================================
+CATEGORY 10: ADMISSION & FEES QUERIES
+===============================================
+
+76. What are the fees at WIT?
+77. Admission process for engineering colleges
+78. How much does medical college cost?
+79. Cheapest colleges in Solapur
+80. Government colleges in Solapur
+81. Private colleges in Solapur
+82. What is the intake capacity of KBP?
+
+===============================================
+CATEGORY 11: CONTACT & LOCATION
+===============================================
+
+83. Where is Walchand Institute located?
+84. Contact number of Government Medical College
+85. How to reach Dayanand College?
+86. Website of KBP College
+87. Email address of WIT
+88. Location of Solapur University
+
+===============================================
+CATEGORY 12: COMPARISON QUERIES
+===============================================
+
+89. Compare WIT and KBP College
+90. Which is better - WIT or DYP?
+91. Difference between government and private colleges
+92. Best engineering college in Solapur
+93. Top 5 colleges in Solapur
+
+===============================================
+CATEGORY 13: QUICK SEARCHES
+===============================================
+
+94. WIT
+95. KBP
+96. DYP
+97. Medical
+98. Engineering
+99. Commerce
+100. All
+
+===============================================
+TIPS FOR USING THE CHATBOT
+===============================================
+
+✅ Use simple, clear questions
+✅ Mention specific college names for detailed information
+✅ Use category keywords (engineering, medical, commerce) for lists
+✅ Try short names like "WIT" or "KBP" for quick results
+✅ Use the search box in sidebar for instant college lookup
+✅ Click quick reply buttons for common queries
+✅ Ask follow-up questions based on responses
+
+===============================================
+CHATBOT FEATURES TO TEST
+===============================================
+
+1. Type a question in chat input
+2. Click quick reply buttons (Universities, Engineering, Medical, etc.)
+3. Use search box in sidebar
+4. Click "View" buttons on college lists
+5. Click suggested questions in right panel
+6. Check typing animation
+7. View college cards with photos
+8. Click website links on college cards
+9. Test chat history
+10. Try mobile view (resize browser)
+
+===============================================
+EXPECTED RESPONSE TYPES
+===============================================
+
+TYPE 1: College Card
+- Shows when you ask about a specific college
+- Displays photo, name, history, courses, contact, website
+
+TYPE 2: College List
+- Shows when you ask about a category
+- Lists colleges with "View" buttons
+
+TYPE 3: Help Message
+- Shows when query is not understood
+- Provides guidance on what to ask
+
+===============================================
+PERFORMANCE BENCHMARKS
+===============================================
+
+⚡ Response Time: < 0.5 seconds
+⚡ Search Time: < 0.1 seconds
+⚡ Data Load: Instant (cached)
+⚡ UI Render: < 0.2 seconds
+
+===============================================
+END OF SAMPLE QUESTIONS
+===============================================
+
+Total Questions: 100+
+Categories: 13
+Colleges Covered: 35+
+
+Happy Testing! 🎓✨

@@ -1,0 +1,103 @@
+{
+  "city": "Solapur",
+  "state": "Maharashtra",
+  "total_colleges": 35,
+  "categories": {
+    "engineering": {
+      "name": "Engineering Colleges in Solapur",
+      "colleges": [
+        {
+          "name": "Walchand Institute of Technology",
+          "short_name": "WIT",
+          "college_type": "Government Aided",
+          "established": "1983",
+          "affiliated_university": "Solapur University",
+          "city": "Solapur",
+          "address": "Ashok Chowk, Solapur - 413006, Maharashtra",
+          "website": "https://www.witsolapur.org",
+          "contact": "0217-2320567",
+          "email": "principal@witsolapur.org",
+          
+          "courses_offered": {
+            "undergraduate": [
+              "B.Tech Computer Science Engineering",
+              "B.Tech Information Technology",
+              "B.Tech Electronics & Telecommunication",
+              "B.Tech Mechanical Engineering",
+              "B.Tech Civil Engineering",
+              "B.Tech Electrical Engineering"
+            ],
+            "postgraduate": [
+              "M.Tech Computer Science",
+              "M.Tech VLSI Design",
+              "M.Tech Structural Engineering",
+              "MBA"
+            ]
+          },
+          
+          "admission_process": {
+            "entrance_exam": "MHT-CET / JEE Main",
+            "eligibility": "10+2 with Physics, Chemistry, Mathematics (Min 50%)",
+            "application_mode": "Online through DTE Maharashtra",
+            "selection_criteria": "Merit-based on entrance exam scores",
+            "important_dates": "Applications: May-June, Admissions: July-August"
+          },
+          
+          "fees_structure": {
+            "tuition_fee_per_year": "₹85,000",
+            "hostel_fee_per_year": "₹45,000",
+            "other_charges": "₹10,000",
+            "total_approximate": "₹1,40,000 per year",
+            "scholarship_available": "Yes - Merit-based and EBC/SC/ST scholarships"
+          },
+          
+          "hostel_availability": {
+            "boys_hostel": "Yes - 500 capacity",
+            "girls_hostel": "Yes - 300 capacity",
+            "hostel_facilities": ["24x7 Security", "Mess", "Wi-Fi", "Recreation Room", "Study Room"]
+          },
+          
+          "facilities": {
+            "library": "Central Library with 50,000+ books and e-resources",
+            "laboratories": "Well-equipped labs for all departments",
+            "sports": "Cricket ground, Basketball court, Volleyball court, Indoor games",
+            "wifi": "Campus-wide Wi-Fi connectivity",
+            "cafeteria": "Multi-cuisine cafeteria",
+            "transport": "Bus facility from various locations",
+            "medical": "First-aid and tie-up with nearby hospitals",
+            "auditorium": "500-seater air-conditioned auditorium"
+          },
+          
+          "placement_information": {
+            "placement_rate": "85%",
+            "highest_package": "₹18 LPA",
+            "average_package": "₹4.5 LPA",
+            "top_recruiters": [
+              "TCS", "Infosys", "Wipro", "Cognizant", "Tech Mahindra",
+              "L&T", "Persistent Systems", "Capgemini"
+            ],
+            "training_provided": "Aptitude training, Technical training, Soft skills, Mock interviews"
+          },
+          
+          "history": "Walchand Institute of Technology (WIT) was established in 1983 by the Walchand Education Society. Named after the great industrialist Seth Walchand Hirachand, the institute has been a pioneer in technical education in the Solapur region. Over the past four decades, WIT has grown to become one of the most prestigious engineering colleges in Maharashtra, known for its excellent faculty, state-of-the-art infrastructure, and outstanding placement record. The college has produced thousands of successful engineers who are contributing to various industries worldwide.",
+          
+          "photo_url": "data/college_images/wit.jpg",
+          "campus_photos": [
+            "data/college_images/wit_campus_1.jpg",
+            "data/college_images/wit_campus_2.jpg",
+            "data/college_images/wit_library.jpg"
+          ],
+          
+          "accreditation": "NAAC A+ Grade, NBA Accredited",
+          "ranking": "Top 200 Engineering Colleges in India",
+          
+          "additional_info": {
+            "student_clubs": ["Technical Club", "Cultural Club", "Sports Club", "NSS", "IEEE Student Chapter"],
+            "events": ["TechFest", "Cultural Fest", "Sports Week"],
+            "alumni_network": "Strong alumni network with 10,000+ alumni worldwide"
+          }
+        }
+      ]
+    }
+  }
+}
